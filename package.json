@@ -1,0 +1,22 @@
+{
+  "name": "ashish6234",
+  "version": "1.0.0",
+  "description": "THIS IS AN ONLINE VS CODE FROM GIT ENVIRONMENT",
+  "main": "index.js",
+  "scripts": {
+    "test": "12345"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ashish6234/ashish6234.git"
+  },
+  "keywords": [
+    "12345"
+  ],
+  "author": "ASHISH",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ashish6234/ashish6234/issues"
+  },
+  "homepage": "https://github.com/ashish6234/ashish6234#readme"
+}
